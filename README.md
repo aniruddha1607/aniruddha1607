@@ -1,8 +1,6 @@
 - Hi, I’m Aniruddha Fale
 - I’m interested in coding and logic building
-- I’m currently learning pandas in python
 - Check my repository for some python apps i created
-- Currently exploring ai/ml, check out gre admission predictor
 - aniruddha.fale@gmail.com
 - todolist (nodejs application with mongodDB as the database)
 
