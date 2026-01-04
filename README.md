@@ -8,7 +8,7 @@ I'm a full-stack developer passionate about building scalable web applications, 
 
 ## Featured Projects
 
-### 🏢 [Brandlytical](https://brandlytical.in/) - Production Influencer Marketing Platform
+### [Brandlytical](https://brandlytical.in/) - Production Influencer Marketing Platform
 **Internship @ Propell Action | Live Product Serving Real Users**
 
 Built an end-to-end influencer marketing platform from initial architecture through production deployment. Demonstrates enterprise-level development with complex multi-role workflows, real-time data synchronization, and scalable cloud infrastructure.
