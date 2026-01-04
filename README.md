@@ -1,12 +1,12 @@
-# Hi, I'm Aniruddha Fale 👋
+# Hi, I'm Aniruddha Fale
 
 ### Full-Stack Developer | React • Python • Flask • Docker • ML Integration
 
-I'm a full-stack developer passionate about building scalable web applications, integrating machine learning models into production systems, and deploying containerized solutions. My experience spans from production platforms serving live users to experimental projects exploring mobile development and ML pipelines.
+I'm a full-stack developer passionate about building scalable web applications, integrating machine learning models into production systems, and deploying containerized solutions. My experience spans from production platforms serving live users to experimental projects exploring mobile development and ML pipelines. Take a look at my projects and what tech stack i learnt from each one of them. 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🏢 [Brandlytical](https://brandlytical.in/) - Production Influencer Marketing Platform
 **Internship @ Propell Action | Live Product Serving Real Users**
@@ -29,7 +29,7 @@ Built an end-to-end influencer marketing platform from initial architecture thro
 
 ---
 
-### 🍽️ [RecipeMatching (Nutrient Pro)](https://github.com/aniruddha1607/RecipeMatching) - ML-Powered Recipe Recommendation System
+### [RecipeMatching (Nutrient Pro)](https://github.com/aniruddha1607/RecipeMatching) - ML-Powered Recipe Recommendation System
 **Focus: ML Integration • REST APIs • Docker Containerization**
 
 Full-stack recipe search and recommendation app that bridges machine learning with web development. Trained a custom K-Nearest Neighbors model on 3000+ recipes and integrated it into a production-ready web application using Docker.
@@ -67,7 +67,7 @@ Full-stack recipe search and recommendation app that bridges machine learning wi
 
 ---
 
-### 🎓 [APSIT-COMMUNITY](https://github.com/aniruddha1607/APSIT-COMMUNITY) - Campus Services Web App
+### [APSIT-COMMUNITY](https://github.com/aniruddha1607/APSIT-COMMUNITY) - Campus Services Web App
 **Focus: Flask • ORM • Authentication • Email Integration**
 
 Built a comprehensive campus services platform handling user authentication, event management, grievances, lost & found, and canteen ordering with email notifications.
@@ -91,7 +91,7 @@ Built a comprehensive campus services platform handling user authentication, eve
 
 ---
 
-### 📱 [Expense Tracker](https://github.com/aniruddha1607/expense-tracker) - Cross-Platform Mobile App
+### [Expense Tracker](https://github.com/aniruddha1607/expense-tracker) - Cross-Platform Mobile App
 **Focus: React Native • Mobile UI/UX • AsyncStorage**
 
 Built a mobile expense tracking app to explore React Native and cross-platform development for iOS and Android.
@@ -114,7 +114,7 @@ Built a mobile expense tracking app to explore React Native and cross-platform d
 
 ---
 
-## 💼 What I Bring to the Table
+## What I Bring to the Table
 
 **Full-Stack Development:**
 - Frontend: React.js, React Native, Tailwind CSS, Bootstrap
@@ -135,7 +135,7 @@ Built a mobile expense tracking app to explore React Native and cross-platform d
 
 ---
 
-## 🎯 What I'm Looking For
+## What I'm Looking For
 
 Full-Stack Developer roles where I can:
 - Build scalable web applications with modern frameworks
@@ -145,12 +145,10 @@ Full-Stack Developer roles where I can:
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
-I'm open to opportunities in **Full-Stack Development**, especially roles involving ML integration, cloud platforms, or mobile development.
+I'm open to opportunities in **Software Development**, especially roles involving ML integration, cloud platforms, or web/mobile app development.
 
 **GitHub:** [aniruddha1607](https://github.com/aniruddha1607)
 
 ---
-
-*"I don't just build features—I build systems that scale, integrate complex technologies, and solve real problems."*
