@@ -1,13 +1,23 @@
 # Hi, I'm Aniruddha Fale
 
+# Interests
+## ML Systems
+## AI Agents
+
 # Projects
 
 ## Distributed ML Systems
+- https://github.com/aniruddha1607/autodiff-kernel-mpi
+  
 - Built an automatic differentiation engine from scratch in Python using DFS-based gradient computation, then used it to implement a transformer language model with self-attention for next-word prediction.
 
 - Wrote a custom fused GPU kernel in Triton which combines matrix multiplication, addition, and activation into a single operation which reduces per-step compute overhead for large tensor inputs.
 
 - Developed a distributed training system using MPI Interface to synchronize and aggregate gradients across multiple machines.
+
+- Working on Analyzing Llama-3 8B and DeepSeek-V3 training costs
+
+- Working on Implementing Speculative Decoding with draft-target models
 
 
 ## UNIX Agent 
@@ -23,6 +33,8 @@
 
 
 ## Intelli-Assist; A architecture to process videos using LLMs
+- https://github.com/semisenioritis/Intelli-assist
+
 - Designed a multimodal LLM architecture using LLaMA 80B and LLaVA via Hugging Face Transformers, enabling vision-language models to process screen recordings and predict user intent.
 
 - Implemented a frame selection algorithm using PCA and K-Means clustering, reducing the number of frames sent to the model for processing by 90\%, improving inference latency.
